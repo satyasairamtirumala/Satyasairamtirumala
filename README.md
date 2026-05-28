@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java Full Stack**
 
-- 👨‍💻 All of my projects are available at [https://satyasaiportfolio-25.lovable.app/](https://satyasaiportfolio-25.lovable.app/)
+- 👨‍💻 All of my projects are available at [https://satyasaiportfolio-25.lovable.app/]((https://satyasaiportfolio.vercel.app/)/)
 
 - 💬 Ask me about **Java,sql,Html,css**
 
