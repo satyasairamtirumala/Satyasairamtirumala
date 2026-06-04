@@ -1,130 +1,33 @@
-<h1 align="center">Hi 👋, I'm Tirumala Satya Sai Ram</h1>
+<h1 align="center">Hi 👋, I'm Tirumala Satya sai ram</h1>
+<h3 align="center">A passionate java full stack developer from India</h3>
 
-<h3 align="center">
-Java Full Stack Developer | Computer Science Engineering Student
-</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=satyasairamtirumala&label=Profile%20views&color=0e75b6&style=flat" alt="satyasairamtirumala" /> </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=satyasairamtirumala&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyasairamtirumala" alt="satyasairamtirumala" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🌱 I’m currently learning **Java Full Stack**
+
+- 👨‍💻 All of my projects are available at [https://satyasaiportfolio-25.lovable.app/]((https://satyasaiportfolio.vercel.app/)/)
+
+- 💬 Ask me about **Java,sql,Html,css**
+
+- 📫 How to reach me **satyasairamtirumala@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1eAwLpViqHwPOaY4IM_AW0Hz_bMaKcpmT/view?usp=drive_link](https://drive.google.com/file/d/1eAwLpViqHwPOaY4IM_AW0Hz_bMaKcpmT/view?usp=drive_link)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/satya-sai-ram-tirumala-1a38652a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/satya-sai-ram-tirumala-1a38652a8/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/adityatirumala6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/adityatirumala6" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=satyasairamtirumala&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
 
-<hr>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyasairamtirumala&show_icons=true&locale=en&layout=compact" alt="satyasairamtirumala" /></p>
 
-<h2>🚀 About Me</h2>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyasairamtirumala&show_icons=true&locale=en" alt="satyasairamtirumala" /></p>
 
-<ul>
-<li>🎓 Final Year Computer Science Engineering Student</li>
-<li>🌱 Currently learning <b>Java Full Stack Development</b></li>
-<li>💻 Passionate about Software Development</li>
-<li>🔭 Working on Java Full Stack Projects</li>
-<li>💬 Ask me about <b>Java, SQL, HTML, CSS, JavaScript</b></li>
-<li>📫 Email: <b>satyasairamtirumala@gmail.com</b></li>
-<li>🌐 Portfolio: <a href="https://satyasaiportfolio.vercel.app/">Visit Portfolio</a></li>
-</ul>
-
-<hr>
-
-<h2>🌐 Connect With Me</h2>
-
-<p>
-<a href="https://www.linkedin.com/in/satya-sai-ram-tirumala-1a38652a8/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/adityatirumala6" target="_blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerrank.svg" width="50"/>
-</a>
-
-<a href="mailto:satyasairamtirumala@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
-</a>
-</p>
-
-<hr>
-
-<h2>💻 Languages and Tools</h2>
-
-<p>
-<img src="https://skillicons.dev/icons?i=java" />
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=javascript" />
-<img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=vscode" />
-</p>
-
-<hr>
-
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<p align="center">
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=satyasairamtirumala&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyasairamtirumala&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<hr>
-
-<h2 align="center">🔥 GitHub Streak Stats</h2>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=satyasairamtirumala&theme=tokyonight&hide_border=true"/>
-</p>
-
-<hr>
-
-<h2 align="center">📈 Contribution Graph</h2>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=satyasairamtirumala&theme=tokyo-night&hide_border=true"/>
-</p>
-
-<hr>
-
-<h2>🚀 Featured Projects</h2>
-
-<h3>🎓 Student Management System</h3>
-<ul>
-<li>HTML, CSS, JavaScript</li>
-<li>Student Registration & Management</li>
-<li>CRUD Operations</li>
-<li>Responsive Design</li>
-</ul>
-
-<h3>🌐 Portfolio Website</h3>
-<ul>
-<li>Modern UI Design</li>
-<li>Responsive Layout</li>
-<li>Project Showcase</li>
-<li>Contact Form</li>
-</ul>
-
-<h3>☕ Java Full Stack Projects</h3>
-<ul>
-<li>Core Java</li>
-<li>JDBC</li>
-<li>MySQL</li>
-<li>Web Technologies</li>
-</ul>
-
-<hr>
-
-<h2 align="center">💡 Quote</h2>
-
-<p align="center">
-<b>"Consistency beats talent when talent doesn't work hard."</b>
-</p>
-
-<hr>
-
-<h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
-<h4 align="center">🚀 Happy Coding! 🚀</h4>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyasairamtirumala&" alt="satyasairamtirumala" /></p>make this excellent looking git hub profile and also make the streak vissible
