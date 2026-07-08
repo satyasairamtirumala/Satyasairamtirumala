@@ -23,7 +23,7 @@
 - 💼 Check out my projects here: [**Portfolio Website**](https://satyasaiportfolio.vercel.app/)
 - 💬 Ask me about **Java, SQL, HTML, CSS, JavaScript**
 - 📫 How to reach me: **satyasairamtirumala@gmail.com**
-- 📄 My Resume: [**View Here**](https://drive.google.com/file/d/1eAwLpViqHwPOaY4IM_AW0Hz_bMaKcpmT/view?usp=drive_link)
+- 📄 My Resume: [**View Here**](https://drive.google.com/file/d/1IavnanPQkS2Pip3zo31mGrsOcu0ZhAQq/view?usp=sharing)
 - ⚡ Fun Fact: I love turning complex problems into simple, elegant code!
 
 ---
